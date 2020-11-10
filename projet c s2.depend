@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1556629275 source:c:\users\octanet\desktop\projet c s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ajout_supp.h"
+	"taritement.h"
+	"conio.c"
+
+1556629114 c:\users\octanet\desktop\projet c s2\ajout_supp.h
+	<malloc.h>
+
+1556628736 c:\users\octanet\desktop\projet c s2\taritement.h
+
+1553796860 source:c:\users\octanet\desktop\projet c s2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1553796860 c:\users\octanet\desktop\projet c s2\conio.h
+	<stdio.h>
+
+1553796860 c:\users\octanet\desktop\projet c s2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1557947925 source:c:\users\octanet\desktop\polytechnique\programmation c\les projets c\projet c s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ajout_supp.h"
+	"taritement.h"
+	"conio.c"
+
+1556629114 c:\users\octanet\desktop\polytechnique\programmation c\les projets c\projet c s2\ajout_supp.h
+	<malloc.h>
+
+1556628736 c:\users\octanet\desktop\polytechnique\programmation c\les projets c\projet c s2\taritement.h
+
+1553796860 c:\users\octanet\desktop\polytechnique\programmation c\les projets c\projet c s2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1553796860 c:\users\octanet\desktop\polytechnique\programmation c\les projets c\projet c s2\conio.h
+	<stdio.h>
+
